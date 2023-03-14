@@ -10647,7 +10647,26 @@ const runewords = {
       "Adds 1-50 lightning damage",
       "+25 Defense"
     ]
-  }
+  },
+  Mosaic: {
+    runes: ["mal", "gul", "amn"],
+    types: ["Weapons"],
+    detailTypes: ["Claws"],
+    sockets: 3,
+    props: [
+      "+50% chance for finishing moves to not consume charges",
+      "When a finisher is executed in this way it now refreshes the expiration timer of the stack",
+      "+2 to Martial Arts (Assassin only)",
+      "+20% Attack Speed",
+      "+200-250% Enhanced Damage",
+      "+20% Bonus to Attack Rating",
+      "7% Life Steal",
+      "+8-15% to Cold Skill Damage",
+      "+8-15% to Lightning Skill Damage",
+      "+8-15% to Fire Skill Damage",
+      "Prevent Monster Heal"
+    ]
+  },
 };
 
 // fixes for old grail seed data, which contained typos
