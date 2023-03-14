@@ -470,5 +470,11 @@ export const runewordGrailDefinitions: {
     types: ["Weapons"],
     detailTypes: ["Missile Weapons"],
     sockets: 2
+  },
+  Mosaic: {
+    runes: ["mal", "gul", "amn"],
+    types: ["Weapons"],
+    detailTypes: ["Claws"],
+    sockets: 3
   }
 };

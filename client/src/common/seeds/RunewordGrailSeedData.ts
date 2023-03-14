@@ -78,5 +78,6 @@ export const runewordGrailSeedData: IRunewordGrailApiData = {
   White: {},
   Wind: {},
   Wrath: {},
-  Zephyr: {}
+  Zephyr: {},
+  Mosaic: {}
 };
